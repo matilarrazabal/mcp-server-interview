@@ -1,0 +1,4 @@
+app:
+  port: 8000
+  todo-list-service:
+    base-url: http://localhost:3000
