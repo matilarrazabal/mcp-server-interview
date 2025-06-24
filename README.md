@@ -56,7 +56,7 @@ Delete a task
 >Eliminar la tarea 'tarea1' de la lista 'Nombre de lista'
 
 ## Next steps
-*Tasks* Right now it's not avilable to change name and description of a giving task. 
+*Tasks:* Right now it's not avilable to change name and description for a giving task. 
 
 ## Areas for improvement
 *Test:* Even though the server was manually tested, testing the service layer will ensure correctness in futures changes.
